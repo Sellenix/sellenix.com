@@ -1,0 +1,50 @@
+{
+  "home": {
+    "title": "Empower Your Online Presence",
+    "description": "Create stunning websites, launch powerful e-commerce stores, and dominate search rankings with Sellenix's all-in-one platform.",
+    "getStarted": "Get Started",
+    "selectPlan": "Select Plan"
+  },
+  "features": {
+    "items": [
+      {
+        "id": "1",
+        "title": "Intuitive Design",
+        "description": "Create stunning websites with our drag-and-drop interface."
+      },
+      {
+        "id": "2",
+        "title": "SEO Optimization",
+        "description": "Boost your search rankings with built-in SEO tools."
+      },
+      {
+        "id": "3",
+        "title": "E-commerce Ready",
+        "description": "Set up your online store with integrated payment gateways."
+      }
+    ]
+  },
+  "plans": {
+    "items": [
+      {
+        "id": "1",
+        "title": "Basic",
+        "price": "$19.99/mo",
+        "features": ["5 Pages", "Basic SEO Tools", "24/7 Support"]
+      },
+      {
+        "id": "2",
+        "title": "Pro",
+        "price": "$49.99/mo",
+        "features": ["Unlimited Pages", "Advanced SEO Tools", "E-commerce Features", "Priority Support"]
+      },
+      {
+        "id": "3",
+        "title": "Enterprise",
+        "price": "Custom",
+        "features": ["All Pro Features", "Dedicated Account Manager", "Custom Integrations", "SLA"]
+      }
+    ]
+  }
+}
+
